@@ -3,6 +3,7 @@
 const users = [
     { username: 'admin', password: 'adminpassword', role: 'admin' },
     { username: 'dinkes', password: 'dinkespass', role: 'skpd', skpdName: 'Dinas Kesehatan' },
+    { username: 'pkmp', password: 'pkmppass', role: 'skpd', skpdName: 'Dinas Kesehatan'},
     { username: 'sekda', password: 'sekdapass', role: 'skpd', skpdName: 'Sekretariat Daerah' },
     { username: 'kecbanawa', password: 'kecbanawapass', role: 'skpd', skpdName: 'Kecamatan Banawa' },
     // Tambahkan user SKPD lainnya sesuai daftar SKPD yang Anda berikan
